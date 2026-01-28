@@ -1,0 +1,17 @@
+{
+  "name": "לוח בקרה - פרויקטים וריפוזיטוריות",
+  "short_name": "Projects Dashboard",
+  "description": "לוח בקרה מתקדם לניהול פרויקטים וריפוזיטוריות GitHub",
+  "start_url": "/projects-dashboard.html",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🎯%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
